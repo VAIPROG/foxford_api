@@ -9,7 +9,7 @@ description: Рассказываем азы установки и показы�
 Для начала, установите библиотеку, используя следующую команду:
 
 ```bash
-pip install git+https://github.com/Vadim-Khristenko/foxford_api
+pip install git+https://github.com/VAIPROG/foxford_api
 ```
 
 {% hint style="warning" %}

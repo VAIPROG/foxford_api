@@ -724,7 +724,7 @@ class Foxford_API_Sync:
 А вот также мой ID Социализации / Найти друзей: {social_user_id}\n
 Моё местное время {me_timezone}.\n
 
-FAPI: https://github.com/Vadim-Khristenko/foxford_api
+FAPI: https://github.com/VAIPROG/foxford_api
                 """
             elif no_input:
                 about_me = kwargs.get("about_me", about_me)
@@ -1634,7 +1634,7 @@ class Foxford_API_Async:
 А вот также мой ID Социализации / Найти друзей: {social_user_id}\n
 Моё местное время {me_timezone}.\n
 
-FAPI: https://github.com/Vadim-Khristenko/foxford_api
+FAPI: https://github.com/VAIPROG/foxford_api
                 """
             elif no_input:
                 about_me = kwargs.get("about_me", about_me)

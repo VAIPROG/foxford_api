@@ -11,7 +11,7 @@ description: >-
 To begin, install the library using the following command:
 
 ```bash
-pip install git+https://github.com/Vadim-Khristenko/foxford_api
+pip install git+https://github.com/VAIPROG/foxford_api
 ```
 
 {% hint style="warning" %}

@@ -29,14 +29,14 @@ classifiers = [
   "Programming Language :: Python :: 3.11",
 ]
 license = {file = "LICENSE"}
-readme = "https://github.com/Vadim-Khristenko/foxford_api/blob/main/README.rst"
+readme = "https://github.com/VAIPROG/foxford_api/blob/main/README.rst"
 
 [project.urls]
 Homepage = "https://volt-diamond.gitbook.io/foxford-api-docs/"
 Documentation = "https://volt-diamond.gitbook.io/foxford-api-docs/"
-Repository = "https://github.com/Vadim-Khristenko/foxford_api/"
-Issues = "https://github.com/Vadim-Khristenko/foxford_api/issues"
-Changelog = "https://github.com/Vadim-Khristenko/foxford_api/blob/main/CHANGELOG.rst"
+Repository = "https://github.com/VAIPROG/foxford_api/"
+Issues = "https://github.com/VAIPROG/foxford_api/issues"
+Changelog = "https://github.com/VAIPROG/foxford_api/blob/main/CHANGELOG.rst"
 
 [project.optional-dependencies]
 old = [
